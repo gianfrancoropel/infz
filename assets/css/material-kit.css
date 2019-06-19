@@ -14591,7 +14591,7 @@ textarea {
   width: 100px;
   height: 100px;
   text-align: center;
-  color: #555;
+  color: #fff;
   transition: all .3s;
   border-radius: 30px;
   padding: 10px 15px;
@@ -14605,7 +14605,7 @@ textarea {
 
 
 .nav-pills .nav-item .nav-link {
-  background-color: rgba(200, 200, 200, 0.2);
+  background-color: rgb(49, 49, 49);
 }
 
 .nav-pills .nav-item .nav-link:hover {
